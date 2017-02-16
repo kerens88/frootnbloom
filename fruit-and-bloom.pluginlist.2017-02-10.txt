@@ -1,0 +1,59 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.3.4
+  http://backwpup.com
+  Blog Name: fruit and bloom
+  Blog URL: http://fruitandbloom.com
+  Generated on: 2017-02-10 12:18.06
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+Akismet (v.3.2) from Automattic
+	https://akismet.com/
+BackWPup (v.3.3.4) from Inpsyde GmbH
+	http://backwpup.com
+Coming Soon Page & Maintenance Mode by SeedProd (v.5.0.7) from SeedProd
+	http://www.seedprod.com
+Contact Form 7 (v.4.6.1) from Takayuki Miyoshi
+	http://contactform7.com/
+Custom Facebook Feed (v.2.4.5) from Smash Balloon
+	http://smashballoon.com/custom-facebook-feed
+Duplicate Post (v.3.1.2) from Enrico Battocchi
+	http://lopo.it/duplicate-post-plugin/
+Facebook Pixel Conversions for WordPress (v.0.0.2) from Vincent Astolfi
+	http://www.nueue.net/
+Hello Dolly (v.1.6) from Matt Mullenweg
+	http://wordpress.org/plugins/hello-dolly/
+Instagram Feed (v.1.4.8) from Smash Balloon
+	http://smashballoon.com/instagram-feed
+InstaG Slider (v.1.0) from Twitter Widget
+	http://www.highschooldiploma.us/extensions
+Recent Posts Widget Extended (v.0.9.9.6) from Satrya
+	https://www.theme-junkie.com/plugins/recent-posts-widget-extended/
+Use Any Font (v.4.6) from Dinesh Karki
+	http://dineshkarki.com.np/use-any-font
+WooCommerce (v.2.6.14) from WooThemes
+	https://woocommerce.com/
+WordPress Importer (v.0.6.3) from wordpressdotorg
+	http://wordpress.org/extend/plugins/wordpress-importer/
+
+Active plugins:
+------------------------------
+BackWPup
+Coming Soon Page & Maintenance Mode by SeedProd
+Contact Form 7
+Custom Facebook Feed
+Duplicate Post
+Facebook Pixel Conversions for WordPress
+Instagram Feed
+Recent Posts Widget Extended
+Use Any Font
+WooCommerce
+WordPress Importer
+
+Inactive plugins:
+------------------------------
+Akismet
+Hello Dolly
+InstaG Slider

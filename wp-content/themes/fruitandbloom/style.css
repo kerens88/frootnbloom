@@ -1,0 +1,29 @@
+/*
+	Theme Name: FruitAndBloom
+	Theme URI: http://localhost
+	Template: salient
+	Author: Bob
+	Author URI: https://codex.wordpress.org/Child_Themes , http://www.salienttheme.com/salient-child-theme/
+	Description: Salient child theme
+	Version: 1.9.1
+	License: GNU General Public License version 3.0
+	License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+-------------------------------------------------------------------------
+
+	1.	H4 tag white filds removing
+
+
+-------------------------------------------------------------------------*/
+
+
+/*-------------------------------------------------------------------------*/
+/*	1.	H4 tag white filds removing
+/*-------------------------------------------------------------------------*/
+
+
+
+@media only screen and (max-width: 415px) and (min-width: 1px){
+	h4 { font-size: 18px; line-height: 1px; margin-bottom: 5px; }
+}
+
